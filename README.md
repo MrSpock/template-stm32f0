@@ -9,4 +9,6 @@ Lower workhorse of printf,sprintf etc is using heap to move data and most of tem
 Code is based on work Hussam Al-Hertani (http://hertaville.com) and his blog posts. Thank you.
 
 
+New target in Makegile was added - "make load" for flashing STM32F0DISCOVERY board
+
 
